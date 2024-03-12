@@ -1,5 +1,6 @@
 # SQL Queries
 
+
 ## Learning Goals
 
 - Define a query as an SQL statement that retrieves data from a database
